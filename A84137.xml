@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegies on the death of that worthy and accomplish't gentleman Colonell John Hampden, Esquire. Entred into the Hall book according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84137</idno>
+            <idno type="STC">Wing E339</idno>
+            <idno type="STC">Thomason E71_4</idno>
+            <idno type="STC">ESTC R8433</idno>
+            <idno type="EEBO-CITATION">99873309</idno>
+            <idno type="PROQUEST">99873309</idno>
+            <idno type="VID">155451</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155451)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E71[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elegies on the death of that worthy and accomplish't gentleman Colonell John Hampden, Esquire. Entred into the Hall book according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Luke Norton for I.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 16, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hampden, John, 1594-1643 --  Poetry.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155451:1" rendition="simple:additions"/>
+            <p>ELEGIES ON THE DEATH OF THAT WORTHY AND accompliſh't Gentleman Co<g ref="char:EOLhyphen"/>lonell JOHN HAMPDEN, Eſquire.</p>
+            <p>Entred into the Hall book according to order.</p>
+            <p>LONDON, Printed by LUKE NORTON, for I. T. <hi>October</hi> 16. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="encomium">
+               <pb facs="tcp:155451:2"/>
+               <pb n="1" facs="tcp:155451:2"/>
+               <head>To his ingenious Friend, <hi>C. I. S.</hi>
+               </head>
+               <lg>
+                  <l>HAMPDEN, thou canſt not live in Jet ſo long</l>
+                  <l>As in this <hi>Threnothriambentique</hi> Song,</l>
+                  <l>The Surgeons ſpice cannot perfume thy Herſe</l>
+                  <l>So well as doth thy Souldiers fragrant verſe:</l>
+                  <l>That's thy immortall balme, by that thy name</l>
+                  <l>Will laſt, and he eterniz'd by thy fame.</l>
+               </lg>
+               <closer>
+                  <signed>I. H.</signed>
+               </closer>
+            </div>
+            <div type="encomium">
+               <head>To the Author, my fellow Souldier.</head>
+               <lg>
+                  <l>
+                     <hi>HAmpden</hi> ſtill lives (deare friend) in ſpight of death,</l>
+                  <l>Thy gratefull Muſe hath given him ſecond breath:</l>
+                  <l>And though thy willing ſtock cannot erect</l>
+                  <l>A brazen Statue (anſw ring the reſpect</l>
+                  <l>He hath deſerved) to his worthy fame;</l>
+                  <l>Yet hath thy verſe eternized his name.</l>
+               </lg>
+               <closer>
+                  <signed>R. M.</signed>
+               </closer>
+            </div>
+            <div type="encomium">
+               <head>To his worthy friend Captain <hi>I. S.</hi> on his Elegie.</head>
+               <lg>
+                  <l>TIs unreſolv'd, though queſtioned of old</l>
+                  <l>Whether <hi>Achilles,</hi> or his <hi>Homer</hi> hold</l>
+                  <l>The more of Fame: and tis as hard of proofe</l>
+                  <l>Whether this pious Builder, or his ſtuffe</l>
+                  <l>More earne a moderne thanks: both I confeſſe</l>
+                  <l>A part, yet no comparing makes them leſſe.</l>
+                  <l>
+                     <hi>Hampden</hi> is rais'd; nor can the Muſe fall downe</l>
+                  <l>That mounts along with his immortall Crowne.</l>
+               </lg>
+               <closer>
+                  <signed>I. G.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <head>To the deare and pretious Memory of that accompliſh'd Gentleman, Colonell <hi>Hampden.</hi>
+               </head>
+               <lg>
+                  <l>THough my malicious fate debar'd my will</l>
+                  <l>From waiting on your vnlour, when the ſhrill</l>
+                  <pb n="2" facs="tcp:155451:3"/>
+                  <l>And haſty Trumpet bade your Honour goe,</l>
+                  <l>With diſadvantage, 'gainſt the ſubtill foe;</l>
+                  <l>When treachery and oddes, crown'd with ſucceſſe,</l>
+                  <l>Did triumph over our unhappineſſe:</l>
+                  <l>Yet give me leave (Renowned duſt) to ſend</l>
+                  <l>My gratefull Muſe in mourning to attend,</l>
+                  <l>And ſtrew ſome Cypreſſe on, your Martiall Herſe;</l>
+                  <l>There her milde griefe, in elegiake verſe,</l>
+                  <l>Shall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ell the ſtupid Age 't hath loſt, in thee,</l>
+                  <l>More worth than e're can be repair'd in three:</l>
+                  <l>That when the wilfull blinded of the Land</l>
+                  <l>They're much-concerning-loſſe ſhall underſtand</l>
+                  <l>They may reclaime their folly, and with me</l>
+                  <l>Juſtly-deplore thy ſad Cataſtrophe.</l>
+               </lg>
+               <lg>
+                  <l>No doubt Detraction, and thoſe twinn'd Adherents,</l>
+                  <l>
+                     <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vie</hi> and <hi>Faction,</hi> her beſt-worſt-Vicegerents,</l>
+                  <l>Predominate o're ill-affected-ſpirits</l>
+                  <l>Whereby to cloud mens moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pparent merits,</l>
+                  <l>And we have found their working, but I dare</l>
+                  <l>The many-headed-Monſter to repaire</l>
+                  <l>And view thy worths true Charracter, that when</l>
+                  <l>Shee ſwels at thy deſerving, ſhee may then</l>
+                  <l>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſt with her ventleſſe-venome, ſo maintaine</l>
+                  <l>Thy vertue 'gainſt all ſcandall ſoveraigne.</l>
+               </lg>
+               <lg>
+                  <l>Was he not pious, valiant, wiſe, and juſt,</l>
+                  <l>Loyall and temp'rate? ev'ry thing that muſt</l>
+                  <l>Make up a perfect harmony? yee know</l>
+                  <l>His conſtant actions have declar'd him ſo.</l>
+                  <l>That he was pious, his firme zeale of heav'n</l>
+                  <l>Hath to the world cleare teſtimony giv'n,</l>
+                  <l>For if Religion had not been the ground</l>
+                  <l>Of this great quarrell, his ſheath'd ſword had found</l>
+                  <pb n="3" facs="tcp:155451:3"/>
+                  <l>No way to oppoſition; but ſince that</l>
+                  <l>Arm'd Popery hath proudly levell'd at</l>
+                  <l>The Churches ruine, then bold <hi>Hambden,</hi> none</l>
+                  <l>More bravely active, or more forward knowne</l>
+                  <l>In its reſolv'd defence: he only can</l>
+                  <l>Prove the ſtout Souldier that's a righteous man;</l>
+                  <l>So was he truly valiant. I have ſeene</l>
+                  <l>Him in the Front of's Regiment-in-greene,</l>
+                  <l>When Death about him, did in ambuſh lye,</l>
+                  <l>And whizzing ſhot, like ſhewres of arrowes flye,</l>
+                  <l>Waving his conqu'ring ſteele, as if that he</l>
+                  <l>From <hi>Mars</hi> had got the ſole Monopolie</l>
+                  <l>Of never-fayling Courage; and ſo cheare</l>
+                  <l>His fighting men, that they ſtill chaſed feare</l>
+                  <l>(Through his example) to the enemy,</l>
+                  <l>And bring them off with joyfull victory.</l>
+                  <l>His wiſdome and his juſtneſſe did appear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Inſeparable, in that fatall yeare</l>
+                  <l>Of our begun diſtempers, when he might</l>
+                  <l>(Fondly as others) have paſt o're the right</l>
+                  <l>Of the free ſubject to an unknowne law;</l>
+                  <l>But his well-read experience kept in awe</l>
+                  <l>The brib'd Maintainers of that impos'd rate</l>
+                  <l>And freed his Countrey from its grievous weight.</l>
+                  <l>He might, ſince civill diſcord did breake out</l>
+                  <l>To open warre, have poorely fac'd about</l>
+                  <l>According to baſe preſidents, but that</l>
+                  <l>His firmer faith did much abominate</l>
+                  <l>Such temporizing inſtability.</l>
+                  <l>No (Noble ſoule!) his purer thoughts were free</l>
+                  <l>From all corruption: had he valew'd friends,</l>
+                  <l>A faire eſtate, or ſelfe-propounded ends,</l>
+                  <pb n="4" facs="tcp:155451:4"/>
+                  <l>Ayrie preferment, or ought elſe, above</l>
+                  <l>A quiet conſcience, and his Nations love,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> had not beene ſtrange't have fallen from the truſt</l>
+                  <l>Repos'd in him: but he was wiſe and juſt;</l>
+                  <l>And rather choſe, by Death, to teſtifie</l>
+                  <l>His faithfulneſſe, then live with infamy.</l>
+                  <l>Wonder of honour! yet his temperance</l>
+                  <l>And loyalty joyn'd to the reſt, advance</l>
+                  <l>His worthy commendation; for when force</l>
+                  <l>Raſhly did run five Members to divorce</l>
+                  <l>From the States Body Politick, did he</l>
+                  <l>Staine, with looſe paſſion, his ſtaid gravity,</l>
+                  <l>Oppoſe, or raile at his impeache<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s? no,</l>
+                  <l>He, in humility, ſubmitted to</l>
+                  <l>Deſired juſtice, for his innocence</l>
+                  <l>Was proofe againſt their groundleſſe violence.</l>
+                  <l>And after that affront to priviledge,</l>
+                  <l>When cloſe contrivers, yet continue ſiedge</l>
+                  <l>Againſt their loyalties, though he foreſaw</l>
+                  <l>Their aime was the ſubverſion of the Law</l>
+                  <l>And its ſupporters, yet did he intreat</l>
+                  <l>His Majeſty home to his Regall Seat</l>
+                  <l>From that deſtructive Councell, that he might</l>
+                  <l>Appeare more glorious in all Princes ſight.</l>
+                  <l>Such Patriots will prove his reall friends,</l>
+                  <l>When Formalliſts ſhall periſh with their ends.</l>
+               </lg>
+               <lg>
+                  <l>What ſayes Detraction now? Oh, are you dumbe?</l>
+                  <l>Yet go and write, thus, on this Hero's Tombe,</l>
+                  <l>Hampden <hi>reſts here approv'd in every thing</hi>
+                  </l>
+                  <l>
+                     <hi>Vpright to Heaven, his Countrey, and his King.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="epitaph">
+            <pb n="5" facs="tcp:155451:4"/>
+            <head>An Epitaph Vpon that virtuous Gentlewoman his Daughter.</head>
+            <lg>
+               <l>FAtes grim Serjeant, Death, ſpares none</l>
+               <l>His cold hands once ceaz'd upon:</l>
+               <l>All muſt to the Common-Goale,</l>
+               <l>The Grave, he'l nor bribe, nor baile.</l>
+               <l>Life's but borrow'd, muſt be paid,</l>
+               <l>Elſe his ſtrictneſſe ſure had ſtai'd:</l>
+               <l>For if Vertue, Beauty, Wit,</l>
+               <l>Wealth, (or what's more worth than it)</l>
+               <l>Might to partially</l>
+               <l>Have ſeduc'd him? here lyes ſhe</l>
+               <l>Had prevail'd, ſuch perfection</l>
+               <l>Harbour'd under her protection.</l>
+               <l>But (alas!) who can prevent</l>
+               <l>Heavens reſolute intent?</l>
+               <l>No (ſweet aſhes) ſleepe ſecur'd,</l>
+               <l>Although ſilently immur'd</l>
+               <l>For a time, with common clay:</l>
+               <l>Waking, you ſhall ſee a day</l>
+               <l>Of rejoycing, when the cloſe</l>
+               <l>Impriſ'ning Earth ſhall let looſe</l>
+               <l>His pale Tennants, at the ſight</l>
+               <l>Of the glorious King of Might,</l>
+               <l>Who will bring you lib<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tty</l>
+               <l>Laſting as <hi>Eternity.</hi>
+               </l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <pb n="6" facs="tcp:155451:5"/>
+            <head>In Obitum ploratiſsimum Clariſsimi, <hi>Iohannis Hampdeni</hi> de caſticon.</head>
+            <lg>
+               <l>ACcipe poſteritas; &amp; quanto funere magni</l>
+               <l>Manibus <hi>Hampdeni</hi> fama parentet, hab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>Mars, Hermes, Pallas, libertas, jura, Camanae,</l>
+               <l>Et pietas una contumulantur humo:</l>
+               <l>Numina tanta? nefas; licet interiiſſe videri</l>
+               <l>Heu dolet in tanto, numina tanta, viro.</l>
+               <l>Sed velut occiduis, quid Sol immergitur undis,</l>
+               <l>Protinus aſtrorum turba renata micat:</l>
+               <l>Sic ſacer <hi>Hampd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nus,</hi> (virto livore) per omne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>
+                  <g ref="char:V">Ʋ</g>irtutum titulos multiplicatus adest.</l>
+            </lg>
+            <closer>
+               <signed>J. G.</signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <head>De per illuſtri Heroe, Domino <hi>Ioanne Hampdeno</hi> nuper denato.</head>
+            <lg>
+               <l>J<g ref="char:V">Ʋ</g>ſtitiae ne priùs mirer, belli ne laborum</l>
+               <l>Te jubar <hi>Oxoniae,</hi> te Patriaeque Decus?</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>traque te ſtantem coluit, defletque <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acentem:</l>
+               <l>(Si virtus tanti tanta jacere poteſt)</l>
+               <l>Tanta jacere nequit, longo vivacior <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vo:</l>
+               <l>Non habet in Talem jus Libitina Virum.</l>
+               <l>Quantus ob Hunc Vnum noſter dolor eſſe putetur?</l>
+               <l>Quantus ob <hi>Arthurum</hi> nobilitate parem?</l>
+               <l>Hoc unum appletos Lacrymis ſolatur amicos,</l>
+               <l>Auctus uterque ſuâ prole ſuperſtes adeſt,</l>
+               <l>Illa deſiderium potent tenire; dolorem</l>
+               <l>Tollere poſſe nego; velle dolere volo.</l>
+               <l>
+                  <hi>Scripſit</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Jo. H.</hi> Oxoni<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Jo. Hampdeno</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
